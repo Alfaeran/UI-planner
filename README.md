@@ -17,11 +17,10 @@
 |--------|-------------------------|------------|
 | **06:00 - 07:00** | Review materi kemarin (tanpa HP) | ⭐⭐⭐⭐ |
 | **07:00 - 15:30** | Sekolah (Sosmed OFF) | ⭐⭐⭐⭐⭐ |
-| **15:30 - 16:30** | Makan siang & istirahat *(Sosmed: Max 15 menit)* | ⭐⭐⭐ |
-| **16:30 - 17:30** | Mengerjakan PR & latihan soal (HP jauhkan) | ⭐⭐⭐⭐⭐ |
-| **17:30 - 19:00** | **Kelas Ruang Guru (Rabu & Jumat)** | ⭐⭐⭐⭐⭐ |
+| **15:30 - 17:00** | **PKPR (Senin) / LSC (Kamis)** | ⭐⭐⭐⭐ |
+| **17:00 - 19:00** | **Kelas Ruang Guru (Rabu & Jumat)** | ⭐⭐⭐⭐⭐ |
 | **19:30 - 21:00** | Review ringan setelah Ruang Guru *(Rabu & Jumat)* | ⭐⭐⭐ |
-| **19:00 - 21:00** | Latihan soal tambahan *(Senin, Selasa, Kamis)* | ⭐⭐⭐⭐ |
+| **19:00 - 21:00** | Latihan soal tambahan *(Selasa, Kamis)* | ⭐⭐⭐⭐ |
 | **20:30 - 21:00** | **Sosial media (Max 30 menit, pakai timer!)** | ⭐⭐⭐ |
 | **21:00 - 21:30** | Refleksi/journaling | ⭐⭐ |
 | **21:30 - 22:00** | Waktu tidur (Sosmed OFF) | ⭐⭐⭐⭐⭐ |
